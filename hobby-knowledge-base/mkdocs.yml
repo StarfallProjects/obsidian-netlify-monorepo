@@ -1,0 +1,12 @@
+site_name: hobby-knowledge-base
+repo_url: https://github.com/StarfallProjects/obsidian-netlify-monorepo
+site_author: Starfall Projects
+theme:
+  name: material
+markdown_extensions:
+  - wikilinks
+nav:
+  - Introduction: index.md
+  - Starfall: starfall.md
+  - Wrath: wrath.md
+  - Starfire: starfire.md
