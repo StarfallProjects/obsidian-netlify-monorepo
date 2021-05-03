@@ -1,0 +1,21 @@
+{
+  "title": "Blog - part of the Obsidian onorepo example",
+  "url": "https://example.com/",
+  "language": "en",
+  "description": "Use Github and Netlify to create multiple websites from one Obsidian vault.",
+  "feed": {
+    "subtitle": "Use Github and Netlify to create multiple websites from one Obsidian vault.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Starfall Projects",
+    "email": "youremailaddress@example.com",
+    "url": "https://www.starfallprojects.co.uk/posts/obsidian-monorepo/"
+  }
+}
