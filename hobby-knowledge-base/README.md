@@ -27,7 +27,7 @@ The site uses [MkDocs](https://www.mkdocs.org/) and the [Material](https://squid
     ```
     mkdocs serve
     ```
-6. View the site at `localhost:8080`.
+6. View the site at `localhost:8000`.
 
 ## Wikilinks
 
