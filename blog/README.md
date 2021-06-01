@@ -6,6 +6,8 @@ The site uses [Eleventy](https://www.11ty.dev/) and the [Eleventy Base Blog](htt
 
 ## Run locally - quickstart
 
+You will need [Node.js](https://nodejs.org/en/) installed on your machine.
+
 1. Clone the repo:
     ```
     git clone https://github.com/StarfallProjects/obsidian-netlify-monorepo.git

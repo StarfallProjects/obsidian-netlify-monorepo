@@ -6,6 +6,8 @@ The site uses [MkDocs](https://www.mkdocs.org/) and the [Material](https://squid
 
 ## Run locally - quickstart
 
+You will need [Python 3](https://www.python.org/downloads/) installed on your machine.
+
 1. Clone the repo:
     ```
     git clone https://github.com/StarfallProjects/obsidian-netlify-monorepo.git
