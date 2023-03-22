@@ -1,0 +1,4 @@
+# Configuration for a plugin published to npm
+[[plugins]]
+package = "mkdocs-literate-nav"
+
