@@ -5,8 +5,4 @@ theme:
   name: material
 markdown_extensions:
   - wikilinks
-nav:
-  - Introduction: index.md
-  - Starfall: starfall.md
-  - Wrath: wrath.md
-  - Starfire: starfire.md
+  - literate-nav
